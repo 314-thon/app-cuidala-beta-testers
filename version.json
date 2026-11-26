@@ -1,5 +1,5 @@
 {
-    "minVersionCode":  2,
-    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v2/app-release.apk",
-    "changelog":  "Corrección de login con Google en builds Release (Credential Manager + R8 SafeParcelable) y mejoras en reintento de actualización."
+    "minVersionCode":  3,
+    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v3/app-release.apk",
+    "changelog":  "Inicio de sesión con Google vía fallback automático en navegador (OAuth PKCE sin depender de SHA-1) y chequeo de actualización sin caché."
 }
