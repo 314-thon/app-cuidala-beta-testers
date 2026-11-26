@@ -1,5 +1,7 @@
 {
-    "minVersionCode":  3,
-    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v3/app-release.apk",
-    "changelog":  "Inicio de sesión con Google vía fallback automático en navegador (OAuth PKCE sin depender de SHA-1) y chequeo de actualización sin caché."
+    "minVersionCode":  4,
+    "latestVersionCode":  4,
+    "latestVersionName":  "1.0.3",
+    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v4/app-release.apk",
+    "changelog":  "Verificación de actualización obligatoria reforzada (OkHttp sin caché, reintento automático de red y soporte preparado para v4 → v5)."
 }
