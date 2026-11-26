@@ -1,5 +1,5 @@
 {
-  "minVersionCode": 1,
-  "apkUrl": "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v1/app-release.apk",
-  "changelog": "Versión inicial de prueba"
+    "minVersionCode":  1,
+    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v1/app-release.apk",
+    "changelog":  "Versión inicial de prueba"
 }
