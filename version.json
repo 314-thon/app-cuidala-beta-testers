@@ -1,7 +1,7 @@
 {
-    "minVersionCode":  5,
-    "latestVersionCode":  5,
-    "latestVersionName":  "1.0.4",
-    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v5/app-release.apk",
-    "changelog":  "Versión 1.0.4 (build 5): Buepp como billetera independiente con sus descuentos, sucursales MásGo (ChangoMás Express) y recomendador de mismo producto en distinto envase ($/L y $/kg)."
+    "minVersionCode":  6,
+    "latestVersionCode":  6,
+    "latestVersionName":  "1.0.5",
+    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v6/app-release.apk",
+    "changelog":  "Versión 1.0.5 (build 6): corrección al unirse a grupos familiares por código o link de invitación, panel directo de invitación y mejoras en Cuenta y familia."
 }
