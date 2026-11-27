@@ -1,7 +1,7 @@
 {
-    "minVersionCode":  6,
-    "latestVersionCode":  6,
-    "latestVersionName":  "1.0.5",
-    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v6/app-release.apk",
-    "changelog":  "Versión 1.0.5 (build 6): corrección al unirse a grupos familiares por código o link de invitación, panel directo de invitación y mejoras en Cuenta y familia."
+  "minVersionCode": 7,
+  "latestVersionCode": 7,
+  "latestVersionName": "1.0.6",
+  "apkUrl": "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v7/app-release.apk",
+  "changelog": "Versión 1.0.6 (build 7): base offline global en cualquier barrio vía Cloudflare (sync matutino en Wi-Fi + respaldo móvil solo precios), precios por GPS real sin cambiar Mi lista, fix del escáner sin precio local y sugerencia automática de Wi-Fi Casa/Trabajo."
 }
