@@ -1,7 +1,7 @@
 {
-  "minVersionCode": 7,
-  "latestVersionCode": 7,
-  "latestVersionName": "1.0.6",
-  "apkUrl": "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v7/app-release.apk",
-  "changelog": "Versión 1.0.6 (build 7): base offline global en cualquier barrio vía Cloudflare (sync matutino en Wi-Fi + respaldo móvil solo precios), precios por GPS real sin cambiar Mi lista, fix del escáner sin precio local y sugerencia automática de Wi-Fi Casa/Trabajo."
+    "minVersionCode":  8,
+    "latestVersionCode":  8,
+    "latestVersionName":  "1.0.7",
+    "apkUrl":  "https://github.com/314-thon/app-cuidala-beta-testers/releases/download/v8/app-release.apk",
+    "changelog":  "Pantalla Compra rediseñada: total sin $0 falsos, precios \u0027último visto\u0027 y carga manual compartida con la familia, montos sin truncar y categorías colapsables."
 }
